@@ -39,8 +39,11 @@ pyfiglet: For ASCII art banners.
 ```bash
 pip install colorama pyfiglet
 
+```bash
 git clone https://github.com/ccyl13/maskify.git
 
+```bash
 cd maskify
 
+```bash
 python3 maskify.py
