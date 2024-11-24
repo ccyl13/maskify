@@ -10,9 +10,8 @@ Maskify helps you generate URLs that appear to point to a fake domain while actu
 
 ---
 
-## Screenshot
+## Maskify
  
-Example:
 ![Maskify Tool Screenshot](https://github.com/ccyl13/maskify/blob/main/MASKIFY.png?raw=true)
 
 ---
@@ -36,12 +35,12 @@ Example:
 colorama: For terminal text styling.
 pyfiglet: For ASCII art banners.
 
-## Install these dependencies using the following command:
-
-pip install colorama pyfiglet
-
 ## Installation:
-
+```bash
+pip install colorama pyfiglet
+```bash
 git clone https://github.com/ccyl13/maskify.git
+```bash
 cd maskify
+```bash
 python3 maskify.py
